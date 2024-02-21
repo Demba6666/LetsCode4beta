@@ -1,0 +1,12 @@
+{
+  "name": "letscode4beta",
+  "version": "1.0.0",
+  "description": "Are you inspired by Teamwork? lets make contributions together",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
